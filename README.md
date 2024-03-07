@@ -7,8 +7,7 @@ News sources are the main medium through which people receive information on cur
 For more information on methods and to see our results, see [our final presentation](./presentation/final_presentation.pdf).
 
 # Code Breakdown
-
-
+The work that each person did can be found in the `notebooks/` folder with each team member's name as the beginning of the files they owned. Cleaned up documented scripts can be found in the `lingo_quartet/src filepath`. Additionally, branches are prepended with names where more in-progress work may be located
 
 
 
