@@ -1,6 +1,15 @@
 # LingoQuartet
 LingoQuartet: Unraveling political and linguistic themes using unsupervised learning clustering and other NLP techniques
 
+# Background
+News sources are the main medium through which people receive information on current events; therefore, the amount of coverage on an issue and positive or negative sentiment in coverage of different stories can change public opinion. This project leveraged a large dataset containing articles from the politics section of the main US news sources to implement a series of embedding processes, clustering methods, and sentiment evaluation methods in order to understand effective methods for measuring topics and sentiment in the news. 
+
+For more information on methods and to see our results, see [our final presentation](./presentation/final_presentation.pdf).
+
+# Code Breakdown
+
+
+
 
 
 # Environment Usage
