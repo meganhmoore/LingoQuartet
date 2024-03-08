@@ -9,11 +9,17 @@ For more information on methods and to see our results, see [our final presentat
 # Code Breakdown
 The work that each person did can be found in the `notebooks/` folder with each team member's name as the beginning of the files they owned. Cleaned up documented scripts can be found in the `lingo_quartet/src filepath`. Additionally, branches are prepended with names where more in-progress work may be located
 
-Brief Notebook Descriptions:    
-jackies_notebook.ipynb – Exploratory data analysis and data prepossessing for clustering
-jackie_sentiment_preprocessing.ipynb - Data prepossessing for sentiment analysis
-jackie_sentiment_analysis.ipynb – Sentiment analysis on titles, full text, abbreviated text, etc. by source and regex derived topics
-jackie_berttopicmodel.ipynb – Implementation, tuning, and evaluation of BERTopics
+Brief Notebook Descriptions: 
+
+megans_notebook.ipynb - Exploratory data analysis and cleaning  
+megans_preprocessing.ipynb – Data prepossessing for clustering  
+megans_embeddings.ipynb – Creating embeddings for hierarchical clustering  
+megan_k_means.ipynb - Implementation of early k-means model  
+megans_hierarchical_part_2.ipynb - Implementation, tuning, and evaluation of hierarchical clustering  
+jackies_notebook.ipynb – Exploratory data analysis and data prepossessing for clustering  
+jackie_sentiment_preprocessing.ipynb - Data prepossessing for sentiment analysis  
+jackie_sentiment_analysis.ipynb – Sentiment analysis on titles, full text, abbreviated text, etc. by source and regex derived topics  
+jackie_berttopicmodel.ipynb – Implementation, tuning, and evaluation of BERTopics  
 
 
 
