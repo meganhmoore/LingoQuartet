@@ -10,20 +10,30 @@ For more information on methods and to see our results, see [our final presentat
 The work that each person did can be found in the `notebooks/` folder with each team member's name as the beginning of the files they owned. Cleaned up documented scripts can be found in the `lingo_quartet/src filepath`. Additionally, branches are prepended with names where more in-progress work may be located
 
 
-Authored by JP:
-* notebooks prepended with `jp`
-Authored by Lisette:
-* notebooks prepended with `lisette`
-Authored by Jackie:
-* notebooks prepended with `jackie`
-Authored by Megan:
+Brief Notebook Descriptions: 
+
+megans_notebook.ipynb - Exploratory data analysis and cleaning  
+megans_preprocessing.ipynb – Data prepossessing for clustering  
+megans_embeddings.ipynb – Creating embeddings for hierarchical clustering  
+megan_k_means.ipynb - Implementation of early k-means model  
+megans_hierarchical_part_2.ipynb - Implementation, tuning, and evaluation of hierarchical clustering  
+jackies_notebook.ipynb – Exploratory data analysis and data prepossessing for clustering  
+jackie_sentiment_preprocessing.ipynb - Data prepossessing for sentiment analysis  
+jackie_sentiment_analysis.ipynb – Sentiment analysis on titles, full text, abbreviated text, etc. by source and regex derived topics  
+jackie_berttopicmodel.ipynb – Implementation, tuning, and evaluation of BERTopics  
+jpm_kmeans.ipynb – Embedding creation, implementation, tuning, and evaluation of kmeans clustering  
+jpm_sentiment_analysis_covid_cluster.ipynb – Sentiment analysis on clusters  
+lisette_text_BERT_analysis.ipynb – Bert sentiment model implementation (text)  
+lisette_title_BERT_analysis.ipynb - Bert sentiment model implementation (title)  
+lisette_cluster_analysis.ipynb - Sentiment analysis on clusters  
+lisettes_notebook.ipynb - Exploratory data analysis  
+
+Scripts rerfactored from notebooks for clarity:
 * `lingo_quartet/src/step01_exploration.py`
-* `lingo_quartet/src/step02_preprocessing.py` (reusing some of Jackie's code)
-* `lingo_quartet/src/step03_bert_embeddings.py` (reusing some of Lisette's code)
+* `lingo_quartet/src/step02_preprocessing.py` 
+* `lingo_quartet/src/step03_bert_embeddings.py` 
 * `lingo_quartet/src/step04_fasttext_embeddings.py`
 * `lingo_quartet/src/step05_hierarchical_clusters.py`
-
-
 
 
 # Environment Usage
