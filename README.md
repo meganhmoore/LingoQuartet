@@ -20,7 +20,8 @@ jackies_notebook.ipynb – Exploratory data analysis and data prepossessing for 
 jackie_sentiment_preprocessing.ipynb - Data prepossessing for sentiment analysis  
 jackie_sentiment_analysis.ipynb – Sentiment analysis on titles, full text, abbreviated text, etc. by source and regex derived topics  
 jackie_berttopicmodel.ipynb – Implementation, tuning, and evaluation of BERTopics  
-
+jpm_kmeans.ipynb – Embedding creation, implementation, tuning, and evaluation of kmeans clustering  
+jpm_sentiment_analysis_covid_cluster.ipynb – Sentiment analysis on clusters  
 
 
 # Environment Usage
