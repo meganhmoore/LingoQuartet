@@ -22,7 +22,10 @@ jackie_sentiment_analysis.ipynb – Sentiment analysis on titles, full text, abb
 jackie_berttopicmodel.ipynb – Implementation, tuning, and evaluation of BERTopics  
 jpm_kmeans.ipynb – Embedding creation, implementation, tuning, and evaluation of kmeans clustering  
 jpm_sentiment_analysis_covid_cluster.ipynb – Sentiment analysis on clusters  
-
+lisette_text_BERT_analysis.ipynb – Bert sentiment model implementation (text)  
+lisette_title_BERT_analysis.ipynb - Bert sentiment model implementation (title)  
+lisette_cluster_analysis.ipynb - Sentiment analysis on clusters  
+lisettes_notebook.ipynb - Exploratory data analysis  
 
 # Environment Usage
 The dependencies for this project were based off of the CAPP30255 conda environment used for othe assignments in the course. In order to track dependencies that were not included in the original capp30255 base environment we use the following process from the root of the repository with the current environment activated:
