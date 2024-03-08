@@ -10,6 +10,21 @@ For more information on methods and to see our results, see [our final presentat
 The work that each person did can be found in the `notebooks/` folder with each team member's name as the beginning of the files they owned. Cleaned up documented scripts can be found in the `lingo_quartet/src filepath`. Additionally, branches are prepended with names where more in-progress work may be located
 
 
+Authored by JP:
+* notebooks prepended with `jp`
+Authored by Lisette:
+* notebooks prepended with `lisette`
+Authored by Jackie:
+* notebooks prepended with `jackie`
+Authored by Megan:
+* `lingo_quartet/src/step01_exploration.py`
+* `lingo_quartet/src/step02_preprocessing.py` (reusing some of Jackie's code)
+* `lingo_quartet/src/step03_bert_embeddings.py` (reusing some of Lisette's code)
+* `lingo_quartet/src/step04_fasttext_embeddings.py`
+* `lingo_quartet/src/step05_hierarchical_clusters.py`
+
+
+
 
 # Environment Usage
 The dependencies for this project were based off of the CAPP30255 conda environment used for othe assignments in the course. In order to track dependencies that were not included in the original capp30255 base environment we use the following process from the root of the repository with the current environment activated:
